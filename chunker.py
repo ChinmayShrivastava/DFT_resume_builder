@@ -5,11 +5,14 @@ import json
 # embeddings_model = OpenAIEmbeddings(openai_api_key="...")
 
 # open all files from the data/ directory, and collect the data, return a list
-def open_files():
+def open_files(folder='data'):
+    fol = input('Enter folder name: ')
+    if fol:
+        folder = fol
     files = []
-    for filename in os.listdir('data'):
+    for filename in os.listdir(folder):
         if filename.endswith('.txt'):
-            with open('data/' + filename, 'r') as f:
+            with open(f'{folder}' + filename, 'r') as f:
                 files.append(f.read())
     return files
 
@@ -35,7 +38,7 @@ def final_chunks(edu_exp_element):
     experience_chunks = experience.split('#')
     return education_chunks, experience_chunks
 
-def store_data(education_experience):
+def store_data(education_experience, filename='data.json'):
     data = {}
     for i, element in enumerate(education_experience):
         education_chunks, experience_chunks = final_chunks(element)
@@ -43,9 +46,17 @@ def store_data(education_experience):
             "edu_chunks": education_chunks,
             "exp_chunks": experience_chunks
         }
-    with open('data/data.json', 'w') as f:
+    flname = input('Enter file name: ')
+    if flname:
+        filename = flname
+    with open(f'data/{filename}', 'w') as f:
         json.dump(data, f, indent=4)
 
+def chunking_pipeline(folder='data', filename='data.json'):
+    files = open_files(folder)
+    split_files = split_files(files)
+    education_experience = extract_education_and_experience(split_files)
+    store_data(education_experience, filename)
 
 # def embed():
 #     files = open_files()
@@ -56,9 +67,9 @@ def store_data(education_experience):
 #     experience_embeddings = get_embedding(experience_chunks)
 #     return education_embeddings, experience_embeddings
 
-if __name__ == '__main__':
-    files = open_files()
-    split_files = split_files(files)
-    education_experience = extract_education_and_experience(split_files)
-    store_data(education_experience)
+# if __name__ == '__main__':
+#     files = open_files()
+#     split_files = split_files(files)
+#     education_experience = extract_education_and_experience(split_files)
+#     store_data(education_experience)
     # education_chunks, experience_chunks = final_chunks(education_experience[0])

@@ -16,8 +16,22 @@ def get_embedding(chunks: list, embeddings_model=embeddings_model, batch_size=10
     return chunks, embeddings
 
 def open_data_json():
-    with open('data/data.json', 'r') as f:
-        data = json.load(f)
+    # list all the .json files available in the data/ directory
+    # ask the user to select one
+    # open the selected file
+    for filename in os.listdir('data'):
+        if filename.endswith('.json'):
+            print(filename)
+    filename = input('Enter filename: ')
+    if filename:
+        with open(f'data/{filename}', 'r') as f:
+            data = json.load(f)
+    else:
+        print("No filename entered. Using default data.json")
+        with open('data/data.json', 'r') as f:
+            data = json.load(f)
+    # with open('data/data.json', 'r') as f:
+    #     data = json.load(f)
     return data
 
 def save_embeddings(data):
@@ -33,6 +47,10 @@ def save_embeddings(data):
     with open('data/embeddings.json', 'w') as f:
         json.dump(embeddings_json, f, indent=4)
 
-if __name__ == '__main__':
+def embed_pipeline():
     data = open_data_json()
     save_embeddings(data)
+
+# if __name__ == '__main__':
+#     data = open_data_json()
+#     save_embeddings(data)

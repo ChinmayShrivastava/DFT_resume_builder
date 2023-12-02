@@ -9,9 +9,24 @@ load_dotenv()
 AGENT_ID = os.environ.get('AGENT_ID')
 
 def open_data_json():
-    with open('data/data.json', 'r') as f:
-        data = json.load(f)
-    return data
+    # list all the .json files available in the data/ directory
+    # ask the user to select one
+    # open the selected file
+    for filename in os.listdir('data'):
+        if filename.endswith('.json'):
+            print(filename)
+    filename = input('Enter filename: ')
+    if filename:
+        with open(f'data/{filename}', 'r') as f:
+            data = json.load(f)
+    else:
+        print("No filename entered. Using default data.json")
+        filename = 'data.json'
+        with open('data/data.json', 'r') as f:
+            data = json.load(f)
+    # with open('data/data.json', 'r') as f:
+    #     data = json.load(f)
+    return data, filename
 
 def create_cot(data):
     for i in data:
@@ -39,8 +54,14 @@ def create_cot(data):
             data[i]['exp_chunks_mod'][j] = last_message
             print(last_message)
 
-if __name__ == '__main__':
-    data = open_data_json()
+def cot_pipeline():
+    data, filename = open_data_json()
     create_cot(data)
-    with open('data/data.json', 'w') as f:
+    with open(f'data/{filename}', 'w') as f:
         json.dump(data, f, indent=4)
+
+# if __name__ == '__main__':
+#     data, filename = open_data_json()
+#     create_cot(data)
+#     with open(f'data/{data}', 'w') as f:
+#         json.dump(data, f, indent=4)
