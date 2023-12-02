@@ -49,7 +49,7 @@ Content: DELOITTE CONSULTING LLP                                                
                 Citi, Global General Ledger (GL) Implementation
                 • Established design committee that reviewed localization requests from 10 countries and communicated key
                   design decisions globally
-~ 
+!@# 
  Timeline: 2016-present
 Content: TUCK SCHOOL OF BUSINESS AT DARTMOUTH                                                           Hanover, NH
                  Candidate for Master of Business Administration degree, June 2018
@@ -101,7 +101,7 @@ Content:  MCMASTER-CARR SUPPLY COMPANY                                          
                  Management Development Candidate (August 2012-May 2013)
                  • Led data analysis team examining frequent customer service issues; recommendations adopted company-wide
                  • Developed staffing models and plans to transition from 8-hour to 12-hour daily operations coverage
-~
+!@#
 Timeline: 2016-present     
 Content:  TUCK SCHOOL OF BUSINESS AT DARTMOUTH                                                               Hanover, NH
                   Candidate for Master of Business Administration degree, June 2018
@@ -150,7 +150,7 @@ Content: PATPATIA & ASSOCIATES                                                  
                   Intern (Spring 2010)
                    Developed cloud platform concept for $2B market cap client and presented research to senior leadership
                    Spearheaded strategic analysis of peer retirement platforms for $100B independent broker/dealer
-~
+!@#
 Timeline: 2016-Present     
 Content: TUCK SCHOOL OF BUSINESS AT DARTMOUTH                                                     Hanover, NH
                   Candidate for Master of Business Administration degree, June 2018
@@ -166,7 +166,7 @@ Content:  UNIVERSITY OF CALIFORNIA, BERKELEY                                    
 Timeline: Summer 2017       
 Content: BARCLAYS PLC                                                                                        New York, NY
                   Summer Associate, Investment Banking Division (Global Power & Utilities)
-                  • Created and reviewed valuation models for a ~$480M joint venture deal; analyzed bidder valuation models
+                  • Created and reviewed valuation models for a $480M joint venture deal; analyzed bidder valuation models
                     and provided strategic and financial analyses to client to assess potential partnerships
                   • Executed Merger-of-Equals transaction valued at over $12B; drafted decks and board presentations for client
                   • Analyzed client financial statements and projections; conducted market and industry due diligence
@@ -177,11 +177,11 @@ Content: G.S. COSMECEUTICAL USA, INC.                                           
                   Family’s skin care manufacturing business that provides research, development, and manufacturing services
                   Senior Associate
                   • Developed the company’s first-ever set of financial pricing models and pricing methodology, reducing by
-                     ~75% the time required to price a product and build quotes for customers
+                     75% the time required to price a product and build quotes for customers
                   • Analyzed current operating needs and advised executive team on best practice data management processes,
-                     increasing profits by ~2.5% per year
+                     increasing profits by 2.5% per year
                   • Partnered with customer service and sales to create customer reporting dashboards for decision management,
-                     improving efficiency by ~40%
+                     improving efficiency by 40%
                   • Mobilized and led community outreach team of 6 that successfully raised over $5K for local non-profits
 #
 Timeline: 2014
@@ -189,7 +189,7 @@ Content:            ECON ONE RESEARCH, INC.                                     
                   Founding member of financial services consulting practice with former Alvarez & Marsal managing director
                   Senior Associate, Financial Services
                   • Managed team of 10, responsible for production of 6 expert report drafts and supplementary exhibits for
-                     financial litigation on selected structured finance securities worth ~$50B
+                     financial litigation on selected structured finance securities worth $50B
                   • Selected as team’s first project manager, implementing project management processes and an audit system to
                      guide quality and completeness of deliverables for 8 expert reports
                   • Assumed leadership role in recruiting and training first-year associates and contractors
@@ -198,13 +198,13 @@ Timeline: 2012-2013
 Content: ALVAREZ & MARSAL (A&M)                                                                          San Francisco, CA
                   Senior Associate, Global Forensics and Disputes (2013-2013)
                   • Coordinated quantitative analyses for an expert report in defense of a financial institution over proprietary
-                     knowledge damages worth ~$30M
-                  • Analyzed financial implications of commercial paper issuances worth ~$50M for an expert report
+                     knowledge damages worth $30M
+                  • Analyzed financial implications of commercial paper issuances worth $50M for an expert report
 	        Associate, Global Forensics and Disputes (2012-2013)
                   • Organized and completed audit of final deliverables for chief expert report that helped successfully defend a
-                     large financial institution over swap agreements worth ~$1B
+                     large financial institution over swap agreements worth $1B
                   • Offered promotion to Senior Associate in one year (standard three)
-~
+!@#
 Timeline: 2016-present 
 Content:  TUCK SCHOOL OF BUSINESS AT DARTMOUTH                                                              Hanover, NH
                Candidate for Master of Business Administration degree, June 2018
@@ -260,7 +260,7 @@ Content: ADVISORY BOARD COMPANY                                                 
                • Created custom reports for clients based on organizational objectives to drive performance improvements
                Senior Marketing Associate (2010-2010)
                • Identified and pursued new business opportunities by implementing strategic marketing campaigns
-~
+!@#
 Timeline: 2016-present   
 Content: TUCK SCHOOL OF BUSINESS AT DARTMOUTH                                                        Hanover, NH
                Candidate for Master of Business Administration degree, June 2018
@@ -316,7 +316,7 @@ Timeline: 2009-2010
 Content: SEOUL LANGUAGE INSTITUTE                                                                    Seoul, South Korea
                English Language and Test Prep Instructor
                • Designed class structure, produced content and developed lesson plans, increasing attendance and test results
-~
+!@#
 Timeline: 2016-present      
 Content: TUCK SCHOOL OF BUSINESS AT DARTMOUTH                                                         Hanover, NH
                   Candidate for Master of Business Administration degree, June 2018 [top 5% of 1st year class
@@ -373,7 +373,7 @@ Content:  LA BIOSTHETIQUE – Intern, In-House Consulting                       
 Timeline: 2009-2009        
 Content: ERNST & YOUNG – Intern, External Audit                                                         Stuttgart, Germany
                   •   Conducted external audit of annual financial statements for a major healthcare product provider
-~
+!@#
 Timeline: 2016-present   
 Content:  TUCK SCHOOL OF BUSINESS AT DARTMOUTH                                                         Hanover, NH
                  Candidate for Master of Business Administration degree, June 2018
