@@ -1,5 +1,8 @@
 import os
 import json
+# from langchain.embeddings import OpenAIEmbeddings
+
+# embeddings_model = OpenAIEmbeddings(openai_api_key="...")
 
 # open all files from the data/ directory, and collect the data, return a list
 def open_files():
@@ -32,10 +35,45 @@ def final_chunks(edu_exp_element):
     experience_chunks = experience.split('#')
     return education_chunks, experience_chunks
 
-def embed
+# def get_embedding(chunks: list, embeddings_model=embeddings_model, batch_size=10):
+#     embeddings = []
+#     for i in range(0, len(chunks), batch_size):
+#         batch = chunks[i:i+batch_size]
+#         embeddings_model.embed_documents(batch)
+#         embeddings.extend(embeddings_model.embeddings)
+#     return chunks, embeddings
+
+# {
+#     <<id>>: {
+#         "edu_chunks": [],
+#         "exp_chunks": []
+#     }
+# }
+# use the above structure to store the data
+def store_data(education_experience):
+    data = {}
+    for i, element in enumerate(education_experience):
+        education_chunks, experience_chunks = final_chunks(element)
+        data[i] = {
+            "edu_chunks": education_chunks,
+            "exp_chunks": experience_chunks
+        }
+    with open('data/data.json', 'w') as f:
+        json.dump(data, f, indent=4)
+
+
+# def embed():
+#     files = open_files()
+#     split_files = split_files(files)
+#     education_experience = extract_education_and_experience(split_files)
+#     education_chunks, experience_chunks = final_chunks(education_experience[0])
+#     education_embeddings = get_embedding(education_chunks)
+#     experience_embeddings = get_embedding(experience_chunks)
+#     return education_embeddings, experience_embeddings
 
 if __name__ == '__main__':
     files = open_files()
     split_files = split_files(files)
     education_experience = extract_education_and_experience(split_files)
-    [print(x) for x in education_experience[0:2]]
+    store_data(education_experience)
+    # education_chunks, experience_chunks = final_chunks(education_experience[0])
