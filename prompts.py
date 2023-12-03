@@ -1,6 +1,6 @@
-COT_GEN_PROMPT = """Education: <<EDUCATION>>
-
-Entry: <<ENTRY>>"""
+COT_GEN_PROMPT = """JOB DESCRIPTION: <<JD>>
+NOTES: <<NOTES>>
+RESUME: <<ENTRY>>"""
 COMPARE_RESUME = """User Information:
 <<FS>>
 Use the above examples and the user information to suggest improvements. Explain your rationale before the final content.

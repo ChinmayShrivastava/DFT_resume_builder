@@ -1,0 +1,311 @@
+JD: 
+
+Stripe Product Manager with 5+ years of experience. 
+
+Lead the strategic vision and execution of product initiatives in the Risk and Compliance domain, ensuring alignment with Stripe’s broader goals and market needs
+
+•
+
+Drive product development from conception to launch, collaborating closely with cross-functional teams, including engineering, design, marketing, and legal
+
+•
+
+Champion a user-centric approach in product design and development, balancing user needs with regulatory compliance and risk management
+
+•
+
+Oversee and guide the product roadmap, prioritizing features and initiatives that align with business objectives and deliver maximum impact
+
+•
+
+Act as a key decision-maker in defining product requirements and specifications, ensuring solutions are scalable, reliable, and deliver tangible value to users
+
+•
+
+Foster a culture of innovation and continuous improvement within the team, encouraging experimentation and learning from both successes and setbacks
+
+•
+
+Build and maintain strong relationships with internal stakeholders and external partners, effectively communicating product vision and progress
+
+##
+
+EDU:
+
+STANFORD  UNIVERSITY	Stanford, CA
+
+Master of Business Administration	2018-2020
+
+
+
+UNIVERSITY OF CHICAGO	CHICAGO, IL
+
+Bachelor of Science, Major in Economics, International Studies	2007-2011
+
+#!#
+
+EXP :
+
+SONDER      	San Francisco, CA
+
+Product Manager	2020-2023
+
+Collaborated with senior leadership team to outline the medium and long-term roadmap for the guest app.
+Initiated redesigning the primary "stays" (reservations) page, which increased engagement and self-service by 15% YOY.
+Introduced a series of features allowing guests to independently manage early check-in and late check-out requests.
+Launched the on-demand housekeeping feature.
+#~#~
+AIRBNB             	 San Francisco, CA
+Product Manager (MBA Intern)	2019-2019
+
+Designed and executed pilot of new consumer offering from concept to launch in five weeks
+Defined user journey and technical requirements for experimental grocery feature in Sonder’s guest app, as well as operational workflows to support pilot
+Created framework to evaluate 11 services, drawing on qualitative and quantitative user research to gauge demand
+
+
+#~#~
+
+HELLOFRESH	 New York, NY
+
+Product Manager	2015-2018
+
+Successfully launched an overhaul of the core business intelligence (BI) system, used to draft and assess recipes against operational KPIs, resulting in increased efficiency and cost savings.
+Reduced recipe evaluation time by approximately 30% by implementing new data integrations and UI enhancements that eliminated redundant data entry.
+Developed a methodology to translate historical, regional ingredient cost data into forward-looking, national price estimates for raw ingredient SKUs, improving cost management and budget forecasting accuracy.
+!@#
+
+JD: Google product manager with 8 years of product management experience. 
+
+In this role, you will work cross-functionally to guide products from conception to launch by connecting the technical and business worlds
+
+•
+
+You can break down complex problems into steps that drive product development
+
+•
+
+to help design and develop technologies that improve access to the world's information
+
+•
+
+We're responsible for guiding products throughout the execution cycle, focusing specifically on analyzing, positioning, packaging, promoting, and tailoring our solutions to our users
+
+•
+
+In this role you will be responsible for AI/ML infrastructure platforms that could have transformative effects on the Generative AI and Large Language Model eco-systems, and on the Google Cloud business
+
+•
+
+Understand workflows of internal and external experts for our targeted workloads, specifically large scale AI/ML training, and inference
+
+•
+
+Understand where internal and external experts are running into limits, know how our products can best meet their needs, and shape our product roadmap by building new offerings to best drive growth to GCP
+
+•
+
+Work with directors and executives across Google to ensure effective product launches and experience
+
+•
+
+Drive product strategy and set product priorities, teaming closely with engineering and cross-functional teams to define and deliver on the next generation of cloud infrastructure services
+
+•
+
+Work with our Go-to-Market and field to figure out the right way to bring our innovative products to the world
+
+##
+
+EDU:
+
+EDUCATION
+
+
+
+MICA, Ahmedabad
+
+MBA, Brand Management, Marketing	2011-2013
+
+
+
+Dr. A. P. J. Abdul Kalam Technical University, Lucknow	
+
+Bachelor of Technology, Major in Computer Science, Information Technology	2005-2009
+
+#!#
+
+EXP:
+
+PROFESSIONAL EXPERIENCE 
+
+Product and Growth leader with experience in building excellent products (and a company) from scratch
+
+Zalando      	Berlin
+
+Principal Product Manager	2023
+
+Leading Inventory Distribution (algorithms) and building complex products focussed on returns management, lead time improvements and “Flawless choice”, enablement of MCF/B2B in ZEOS
+Led experimentation and discovery for Group portfolio initiatives like “fast and for me” with 3 experiments and dozens of stakeholders.
+#~#~
+
+Getir             Berlin
+
+Group Product Manager	2021-2022
+
+Lead growth product teams focused on "Promos and referrals" and "Address UX" on the Getir App for all 9 markets. Improved funnel conversion by 8%, order cancellations by 18%
+
+
+#~#~
+
+Blok	Barcelona
+
+Co-Founder/Chief Growth Officer	2021
+
+Acquired by Getir in July 2021. Led Product and Growth, acquired 10000 customers with 30% stickiness, 12% activation rate
+#~#~
+
+Mercedes-Benz.io             Berlin
+
+Product Lead	2018-2021
+
+Lead a product team of 30 FTE to launch and growth Bertha app to 1M downloads, 40% retention, and 4.5 stars in app stores. Built “Bertha pay” and grew to 2000 shell and 500 HEM gas stations
+#~#~
+
+Clark Germany          Berlin
+
+Product Owner, Head of Digital Marketing	2016-2018
+
+Acquired and retained 80K+ customers, led user activation and retention initiatives. Build Direct sales funnel to sell Insurances online and acquire customers for Broker product 
+#~#~
+
+Zalando+Rocket Internet          Berlin
+
+Mobile Marketing	2016-2018
+
+Driving mobile user acquisition and retention, partnering with Google and Facebook, Working with Rocket internet portfolio companies to setup mobile acquisition engines
+#~#~
+
+Digital Marketing with InMobi, Bangalore 2013-2015 
+
+Assistant Systems Engineer with Tata Consultancy Services 2009-2011
+
+!@#
+
+JD: Amazon product manager with 3 years of experience
+
+##
+
+EDU: EDUCATION
+
+
+
+GEORGETOWN  UNIVERSITY	Washington, D.C.
+
+Master of Business	2018-2020
+
+
+
+OHIO UNIVERSITY	Athens, OH
+
+Bachelor of Science, Health Care Business	2009-2013
+
+
+
+#!#
+
+EXP: 
+
+PROFESSIONAL EXPERIENCE
+
+
+
+CAPITAL ONE      	San Francisco, CA
+
+Product Manager (B2B Payments)	2020-2023
+
+Lead the use of OKRs in the organization, helping teams create and track OKRs every quarter to ensure clear goals across B2B Solutions
+Guide initiatives and projects across 13 B2B Solutions teams, ensuring they comply with project management standards
+Keep an eye on all project activities to make sure they follow the plan, including the timeline, risks, and legal requirements, from start to finish
+Improve product operations processes to get faster feedback, increase efficiency, and boost feature use
+Develop useful project management tools like project plans, brainstorming templates, task trackers, and more for use across the organization
+Work together with PMOs across the company, sharing knowledge and resources
+#~#~
+
+MCKINSEY              	 San Francisco, CA
+
+Project Administrator (MBA Intern)	2019-2019
+
+Managed various financial and project tasks, such as tracking financial data for large-scale projects, creating ad-hoc financial models and analytics, preparing budgets and modifications for ongoing research projects, writing project updates and summary reports, and overseeing various company portfolios.
+Assisted staff during research proposal development by compiling budgets, managing timelines, and liaising with stakeholders from the Gates Foundation, MacArthur Foundation, National Science Foundation, and more.
+Supported the Operations Director in monitoring the center's budget allocations and tracking center-wide metrics, including proposals.
+Offered operational support by helping with hiring and onboarding activities, organizing electronic files, managing meeting logistics, and coordinating events that connect our experts with decision-makers.
+!@#
+
+JD: Apple Product Manager with 4+ years of experience
+
+Responsibilities
+
+•
+
+Research and synthesize technology trends, competitive trends and user feedback to identify new product opportunities
+
+•
+
+Collaborate with software engineering and product designers to define product roadmap and strategy
+
+•
+
+Negotiate and influence product trade-offs impacting schedule and usability to improve user experience and consumer differentiation
+
+•
+
+Position FaceTime and Phone apps in the competitive landscape, and craft compelling end-user messaging for the highest impact
+
+•
+
+Launch new versions and features of FaceTime and Phone apps worldwide in conjunction with Marketing Communications, Public Relations and Events teams
+
+•
+
+Serve as an ambassador for FaceTime and Phone via press briefings and customer visits
+
+##
+
+EDUCATION
+
+
+
+UNIVERSITY OF MARYLAND	College Park, MD
+
+Master  of Science, Management Information Systems and Services	2018-2020
+
+
+
+#!#
+
+PAYLOCITY	Remote
+
+Senior Product Designer                                                                          	2022-Present
+
+Serve as Invoice to Cash I2C functional lead for global tech clients, resulting in successful cloud ERP designs & implementations
+Build strong relationships and communicate plans, insights, data, impact, and results to high-level executives on engagements
+Stand as a liaison between technical and client business teams to produce a solid, useful financial transaction processing system
+Organize Digital Lab upskilling challenges within the firm – Tableau, Altryx, Power BI, Bots, Digital Assets, Automation
+#~#~
+
+PEARL          	 London, England
+
+SEO Program Manager	2018-2019
+
+Directed remote global teams focused on technical SEO analysis, intelligent keyword research, content creation, and clear-cut reporting in order to drive business growth and increase visibility and engagement for clients; frequent communication with clients
+Specialized in SEO, Search Engine Marketing, Wordpress SEO, Google Analytics, Yelp, Email Marketing, SEO analysis and consulting, SEO keyword research, and Conversion Rate Optimization
+#~#~
+
+WEBAPP	 	 Philadelphia, PA
+
+Product Manager	2020-2020
+
+Prioritized strategic initiatives within the SalonClouds Plus sector to align with future business objectives and measurable goals.
+Managed 30+ projects in mobile app development, SEO, web design, and cloud development from start to finish for a variety of international clients. This included handling user experience, technology requirements, prototyping, testing, payment processing, and integrations up to the product launch.
+Initially starting as a Graphic Design Intern, effectively managed teams of more than five graphic designers and over 20 offshore developers.
+!@#

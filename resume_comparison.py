@@ -42,49 +42,83 @@ import os
 	
 # 	return response['choices'][0]['message']['content']
 
+def open_data_json():
+    # list all the .json files available in the data/ directory
+    # ask the user to select one
+    # open the selected file
+    for filename in os.listdir('data'):
+        if filename.endswith('.json'):
+            print(filename)
+    filename = input('Enter filename: ')
+    if filename:
+        with open(f'data/{filename}', 'r') as f:
+            data = json.load(f)
+    else:
+        print("No filename entered. Using default data.json")
+        filename = 'data.json'
+        with open('data/data.json', 'r') as f:
+            data = json.load(f)
+    # with open('data/data.json', 'r') as f:
+    #     data = json.load(f)
+    return data, filename
+
+# open embeddings.json
+def open_embeddings_json():
+    for filename in os.listdir('data'):
+        if filename.endswith('.json'):
+            print(filename)
+    filename = input('Enter filename: ')
+    if filename:
+        with open(f'data/{filename}', 'r') as f:
+            embeddings = json.load(f)
+    else:
+        print("No filename entered. Using default embeddings.json")
+        filename = 'embeddings.json'
+        with open('data/embeddings.json', 'r') as f:
+            embeddings = json.load(f)
+    # with open('data/embeddings.json', 'r') as f:
+    #     embeddings = json.load(f)
+    return embeddings
+
 if __name__ == '__main__':
     # Load data
-    with open('data/data.json', 'r') as f:
-        data = json.load(f)
+    data = open_data_json()[0]
     # Load embeddings
-    with open('data/embeddings.json', 'r') as f:
-        embeddings = json.load(f)
-    user_info_edu = '''Brown University Providence, RI | Sept 2017 - May 2020
-Bachelor of Arts in Computer Science and Economics, GPA: 3.8/4.0
-Relevant Courses: Entrepreneurial Process, Deep Learning, Statistics, Computer Systems, Algorithms, Corp Finance'''
-    user_info_exp = '''Microsoft, Product Manager, Azure Media Security Redmond, WA | July 2020 – Jan 2022
-• Product Manager on media protection technology PlayReady built into 5+ billion devices that secures premium
-media content from the leading studios and content providers on Windows, Xbox, and 3rd party devices
-• Defined a 3-year product vision focusing on tighter licensee integration, deprecation opportunities, and new
-market segments. Drove annual revenue growth by 1.2x (FY20-21) to $62M in the first year
-• Built, tested, and launched 4 new features in PlayReady’s new version by cross-collaborating with external
-partners, developers, data scientists and marketing to close customer security gaps and enable new user scenarios
-• Drove a 1-year Operations plan improving Diagnostics, Monitoring, Alerting, and Incident Management
-practices for our services which reduced incident detection and mitigation time by 70%'''
-    results = vector_search(user_info_exp, embeddings, data)[0:3]
+    embeddings = open_embeddings_json()
+    JOB_DESCRIPTION = '''JD:
+About the Position
+We are looking for Quantitative Traders to help us find and trade on price inefficiencies, develop models, manage risk, investigate new products, and push into new business areas. Our trading is based on our own proprietary models, and on busy days we engage in over a million trades across 200 trading venues around the world.
+
+Our trading desks are central to our collaborative and cooperative office environment. You can expect to work side by side with experienced Traders who are committed to teaching, guiding, and supporting our newest hires from day one. Through hands-on, interactive training, you’ll acquire significant, real trading responsibilities within weeks to months of being on the desk. In parallel, you will participate in our robust year-long firmwide educational curriculum.
+
+A profitable trading strategy is only as strong as the technology it runs on, and we consider ourselves as much a technology company as a trading firm. While exposure to a particular programming language is not required, general programming experience is a plus.
+
+If you’d like to learn more, you can read about our interview process and meet some of our newest hires.
+
+About You
+We don’t expect you to have a background in finance or any other specific field—we’re looking for smart people who enjoy solving interesting problems. We’re more interested in how you think and learn than what you currently know. You should be:
+
+A critical thinker with a strong quantitative mind
+A collaborative problem-solver who enjoys working on a team
+Able to make decisions quickly in a fast-paced environment
+Proactive, reliable, and courteous with strong organizational and communication skills
+Eager to ask questions, admit mistakes, and learn new things
+Fluent in English'''
+    NOTES = '''I have a Master of Engineering in Innovation Management and Entrepreneurship from Brown University, with an upper second class degree in Mathematics with Statistics from King's College London. During my undergraduate studies, I took courses in a variety of statistics and mathematical finance courses, including Applied Differential Equations, Mathematical Finance, Probability Theory, Statistical Modelling, Statistical Inference, and Time Series Analysis. My degree coursework also involved generating a multivariable linear regression model in R to analyze the impact of various factors on housing prices in different areas.
+
+In my professional experience, I worked with Xcede as a Senior Consultant from November 2021 to February 2023. This role had me proactively organize and lead international client meetings to establish lasting relationships and maintain a steady stream of new business. I performed quantitative analysis on market data and communicated these insights to our internal team and our clients.
+
+I was in charge of managing key accounts and facilitated communication between senior stakeholders to ensure a clear, streamlined process and strategy goals. I led a cross-functional team to efficiently scale and meet deadlines. In addition, I conducted weekly training sessions for incoming graduate hires. Through these efforts, I generated over 190,000 dollars in direct revenue in fiscal year 2022, consistently outperforming non-financial key performance indicators.
+
+Before that, I was a Technology Risk Consultant at Ernst & Young from August 2021 to October 2021. I conducted walkthroughs with clients to review information technology processes and assure the data accuracy of financial audits. I also managed client relationships by communicating clearly about their goals and timelines. Moreover, I was responsible for creating detailed documentations of IT processes and controls, ensuring that evidence was sufficient and up to standard.'''
+    results = vector_search(JOB_DESCRIPTION, embeddings, data)[0:3]
     fs = []
+    fs_example = """Explain step-by-step how to write the resume and then output the resume as illustrated in some examples before.
+    """
+    i = 0
     for result in results:
-        key = result["key"]
-        key_split = key.split("_")
-        index = int(key_split[0])
-        edu_or_exp = key_split[1]
-        edu_or_exp_index = int(key_split[2])
-        edu = data[f'{index}']["edu_chunks"]
-        edu_text = '\n'.join(edu)
-        fs_temp_0 = data[f'{index}'][f"{edu_or_exp}_chunks"][edu_or_exp_index]
-        fs_temp_1 = data[f'{index}'][f"{edu_or_exp}_chunks_mod"][edu_or_exp_index]
-        timeline, content = fs_temp_0.split("Content:")
-        content = "Content:" + content
-        fs_temp = f'''Example:
-Education: {edu_text}
-Entry:
-{timeline}
-Explanation: {fs_temp_1}
-{content}'''
-        fs.append(fs_temp)
-        fs_prompt = "\n".join(fs)
-        prompt = COMPARE_RESUME.replace("<<FS>>", fs_prompt)
-        prompt = prompt.replace("<<USER_INFO>>", user_info_edu)
-        prompt = prompt.replace("<<USER_EDU>>", user_info_exp)
-        with open('data/final_prompt.txt', 'w') as f:
-            f.write(prompt)
+        fs_example += f"{i+1}. {result} \n"
+    fs_example += f"""Job Description: {JOB_DESCRIPTION}
+Notes: {NOTES}"""
+    with open('data/final_prompt.txt', 'w') as f:
+        f.write(fs_example)
