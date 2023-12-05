@@ -2,9 +2,12 @@ from langchain.embeddings import OpenAIEmbeddings
 import os
 import json
 from dotenv import load_dotenv
+import streamlit as st
 load_dotenv()
 
-embeddings_model = OpenAIEmbeddings(openai_api_key=os.environ.get('OPENAI_API_KEY'))
+apikey = st.secrets['OPENAI_API_KEY']
+
+embeddings_model = OpenAIEmbeddings(openai_api_key=apikey)
 
 def get_embedding(chunks: list, embeddings_model=embeddings_model, batch_size=10):
     embeddings = []
