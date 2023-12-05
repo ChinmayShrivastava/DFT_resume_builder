@@ -6,7 +6,7 @@ load_dotenv()
 
 print(os.environ)
 
-embeddings_model = OpenAIEmbeddings(openai_api_key=os.environ('OPENAI_API_KEY'))
+embeddings_model = OpenAIEmbeddings(openai_api_key=os.environ.get('OPENAI_API_KEY'))
 
 def get_embedding(chunks: list, embeddings_model=embeddings_model, batch_size=10):
     embeddings = []
