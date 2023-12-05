@@ -23,7 +23,7 @@ def generate_completion(prompt):
     messages=[
         {"role": "user", "content": prompt}
     ],
-    max_tokens=1000,
+    max_tokens=500,
     temperature=1,
     stream=True
     )
