@@ -2,11 +2,6 @@ import os
 import json
 from search import *
 from prompts import COMPARE_RESUME
-from langchain.chains import LLMChain
-from langchain.llms import OpenAI
-from langchain.prompts import PromptTemplate
-import openai
-import os
 # from dotenv import load_dotenv
 # load_dotenv()
 
@@ -85,34 +80,34 @@ if __name__ == '__main__':
     data = open_data_json()[0]
     # Load embeddings
     embeddings = open_embeddings_json()
-    JOB_DESCRIPTION = '''JD:
-About the Position
-We are looking for Quantitative Traders to help us find and trade on price inefficiencies, develop models, manage risk, investigate new products, and push into new business areas. Our trading is based on our own proprietary models, and on busy days we engage in over a million trades across 200 trading venues around the world.
+    JOB_DESCRIPTION = '''The JD:
+We are seeking an innovative Product and Growth Lead to drive our product development and user expansion strategies. As our 1st PM, you’ll be working to enhance our product offerings and extend our market reach to establish a dominant position in the industry.
+Job Responsibilities:
+Direct the full product development cycle, from initial testing to project management, ensuring a seamless user experience.
+Craft and execute growth strategies to boost product uptake and engagement.
+Partner with the design team to continuously improve and innovate the product's design, focusing on user-centric experiences.
+Work on growth initiatives through collaboration with marketing, creative, and community teams.
+Requirements:
+2+ years in product management, with a strong preference for experience in consumer or video products.
+Experience in successful marketing and growth initiatives.
+Robust creative and analytical abilities, with a strategic approach to product evolution and user base growth.
+Effective communication skills and a collaborative spirit to work synergistically with various teams.
+A dynamic, startup mindset with a zeal for innovation and a passion for working in a fast-paced environment.
+A plus if complemented by an artistic interest and background.
+This position is in-person.'''
+    NOTES = '''I have a strong interest in filmmaking and possess over three years of experience in account acquisition, product lifecycle management, and growth strategies that I cultivated during my time at Palantir. I am looking forward to applying my technical expertise and strategic insights to contribute to Pika's pioneering product leadership, foster its growth, and boost its adoption.
 
-Our trading desks are central to our collaborative and cooperative office environment. You can expect to work side by side with experienced Traders who are committed to teaching, guiding, and supporting our newest hires from day one. Through hands-on, interactive training, you’ll acquire significant, real trading responsibilities within weeks to months of being on the desk. In parallel, you will participate in our robust year-long firmwide educational curriculum.
+In my previous role, I successfully led the development of custom enterprise products, generating revenue of $24 million across various accounts. This success was achieved through identifying market opportunities, creating user-focused solutions, and building robust relationships at all levels within the organization, from end-users to executive suite. More recently, I was at the helm of a 12-person engineering team where I drove the acquisition and upscaling of manufacturing accounts by developing custom AI solutions.
 
-A profitable trading strategy is only as strong as the technology it runs on, and we consider ourselves as much a technology company as a trading firm. While exposure to a particular programming language is not required, general programming experience is a plus.
+Since July, I have been conducting a series of hackathons and bootcamps for technical users. These efforts have resulted in nine new contracts and increased active engagement with existing clients. My role at Palantir and for our clients encompassed everything from product roadmap planning and execution to designing architecture, scoping use cases, and fostering user community growth.
 
-If you’d like to learn more, you can read about our interview process and meet some of our newest hires.
+I am particularly proud of leading the design and implementation efforts for Palantir's Scenarios product as the primary user-facing associate. This product was adopted by our entire user base within six months of launch thanks to simplified UX, scalable workflows, and successful client showcases.
 
-About You
-We don’t expect you to have a background in finance or any other specific field—we’re looking for smart people who enjoy solving interesting problems. We’re more interested in how you think and learn than what you currently know. You should be:
+I believe in the power of collaboration and always seek to work with teams composed of individuals who are exceptional, kind-hearted, and motivated by collective achievement. I'm committed to providing the resources my team needs, fostering a sense of shared responsibility, and ensuring skills are allocated in a way that meets the business needs effectively.
 
-A critical thinker with a strong quantitative mind
-A collaborative problem-solver who enjoys working on a team
-Able to make decisions quickly in a fast-paced environment
-Proactive, reliable, and courteous with strong organizational and communication skills
-Eager to ask questions, admit mistakes, and learn new things
-Fluent in English'''
-    NOTES = '''I have a Master of Engineering in Innovation Management and Entrepreneurship from Brown University, with an upper second class degree in Mathematics with Statistics from King's College London. During my undergraduate studies, I took courses in a variety of statistics and mathematical finance courses, including Applied Differential Equations, Mathematical Finance, Probability Theory, Statistical Modelling, Statistical Inference, and Time Series Analysis. My degree coursework also involved generating a multivariable linear regression model in R to analyze the impact of various factors on housing prices in different areas.
-
-In my professional experience, I worked with Xcede as a Senior Consultant from November 2021 to February 2023. This role had me proactively organize and lead international client meetings to establish lasting relationships and maintain a steady stream of new business. I performed quantitative analysis on market data and communicated these insights to our internal team and our clients.
-
-I was in charge of managing key accounts and facilitated communication between senior stakeholders to ensure a clear, streamlined process and strategy goals. I led a cross-functional team to efficiently scale and meet deadlines. In addition, I conducted weekly training sessions for incoming graduate hires. Through these efforts, I generated over 190,000 dollars in direct revenue in fiscal year 2022, consistently outperforming non-financial key performance indicators.
-
-Before that, I was a Technology Risk Consultant at Ernst & Young from August 2021 to October 2021. I conducted walkthroughs with clients to review information technology processes and assure the data accuracy of financial audits. I also managed client relationships by communicating clearly about their goals and timelines. Moreover, I was responsible for creating detailed documentations of IT processes and controls, ensuring that evidence was sufficient and up to standard.'''
+My passion for filmmaking and technology combined with analytical expertise, aligns well with Pika's mission to revolutionize expression through AI. I am excited about the opportunity to contribute to its rapid growth. I am eager to discuss how I can apply my experience and growth-oriented product expertise to help position Pika as a leader in AI-powered video creation, democratize creative tools, and establish a new standard.'''
     results = vector_search(JOB_DESCRIPTION, embeddings, data)[0:3]
-    fs = []
+    # fs = []
     fs_example = """Explain step-by-step how to write the resume and then output the resume as illustrated in some examples before.
     """
     i = 0
