@@ -10,7 +10,7 @@ resume_experience_placeholder = st.empty()
 # copy your text here for job description
 job_description = job_description_placeholder.text_area("Job Description", height=200)
 # copy your text here for resume experience section notes
-resume_experience = resume_experience_placeholder.text_area("Ole Resume Experience Section or Notes on your Experiences", height=200)
+resume_experience = resume_experience_placeholder.text_area("Old Resume Experience Section or Notes on your Experiences", height=200)
 
 # if the user clicks the button generate resume object
 if st.button("Generate Resume"):
