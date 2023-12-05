@@ -18,7 +18,9 @@ if st.button("Generate Resume"):
     job_description_placeholder.empty()
     resume_experience_placeholder.empty()
     # create a resume object
-    resume = Resume(job_description, resume_experience)
+    resume = None
+    with st.spinner('Understanding Experiences'):
+        resume = Resume(job_description, resume_experience)
     generating = False
     placeholder = st.empty()
     with st.spinner("Wait for it..."):
