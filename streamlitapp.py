@@ -2,7 +2,7 @@ import streamlit as st
 import time
 from resumeobject import Resume
 
-st.title("Resume Builder")
+st.title("Resume Updater App")
 # Create placeholders for the text areas
 job_description_placeholder = st.empty()
 resume_experience_placeholder = st.empty()
