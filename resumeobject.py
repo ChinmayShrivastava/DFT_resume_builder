@@ -50,7 +50,7 @@ class Resume():
         self.resume_experience = resume_experience
         self.data = open_data_json('general0')
         self.embeddings = open_embeddings_json('general0_embeddings')
-        self.fs_prompt = "Explain step-by-step how to write the resume and then output the resume as illustrated in some examples before.\n"
+        self.fs_prompt = "Based on the job description and notes, explain step-by-step how to write the resume and then output the resume as illustrated in some examples before.\n"
         self.resume_updated = ''
         self.resume_explanation = None
         self.results = None
