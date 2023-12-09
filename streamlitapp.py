@@ -9,9 +9,9 @@ resume_experience_placeholder = st.empty()
 disclaimer_placeholder = st.empty()
 
 # copy your text here for job description
-job_description = job_description_placeholder.text_area("Job Description", height=200, placeholder='Enter the job description for the job and role you are applying for.', max_chars=750)
+job_description = job_description_placeholder.text_area("Job Description", height=200, placeholder='Enter the job description for the job and role you are applying for.', max_chars=1750)
 # copy your text here for resume experience section notes
-resume_experience = resume_experience_placeholder.text_area("Old Resume Experience Section or Notes on your Experiences", height=200, placeholder='Enter your resume\'s experience section or notes on your experiences.\nMake sure to not include anything else.', max_chars=750)
+resume_experience = resume_experience_placeholder.text_area("Old Resume Experience Section or Notes on your Experiences", height=200, placeholder='Enter your resume\'s experience section or notes on your experiences.\nMake sure to not include anything else.', max_chars=1750)
 disclaimer_placeholder.markdown("""If you don't like the output try running a few times. Change up the text in the experience section. We've used it to better our own resumes! 
 
 P.S. : Make sure to double check the output. It does hallucinate (i.e make up things) at times and is far from perfect.""")

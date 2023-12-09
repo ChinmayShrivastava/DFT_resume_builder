@@ -1,115 +1,328 @@
-User Information:
-Example:
-Education: Timeline: 2016-present
-Content: TUCK SCHOOL OF BUSINESS AT DARTMOUTH
-Candidate for Master of Business Administration degree, June 2018
-Marketing Department, Teaching Assistant | Tripod Ice-Hockey, Commissioner
+Explain step-by-step how to write the resume and then output the resume as illustrated in some examples before.
+    1. Job Description: 
 
 
-Timeline: 2006-2010
-Content: DARTMOUTH COLLEGE  Hanover, NH
-BA in Art History, NH State Certification in Elementary Education   
-DREAM Mentoring, Comms. Chair | Dartmouth Women’s Club Soccer, Captain | Sigma Delta, Social Chair  
-
-Entry:
-
-Timeline: 2009-2016
-
-Explanation: The candidate has structured their resume's work experience section to provide a clear, concise, and impactful insight into their career progression, notable achievements, and specific responsibilities. They begin by listing their most recent position at PUBLICIS MEDIA (2013-2016), emphasizing their leadership role in business development, accompanied by key accomplishments like the Global Growth Team Individual Impact Award. The bullet points detail responsibilities, major clients, and tangible results or contributions. They transition to the "Digital Associate" role (2012-2013), again highlighting responsibilities and awards that recognize their performance and expertise. They continue with the "Digital Junior Associate" position (2011-2012), stressing on-the-job training they provided and successful management of a significant transition project, along with another industry recognition. Finally, they conclude with the "Branded Entertainment Summer Intern" experience (2009, 2010), focusing on their initiative to identify content integration opportunities.
-
-Each role is described with action verbs and quantifiable achievements, demonstrating the candidate's competency and impact. Industry recognitions serve to validate their excellence and distinguish them from peers. The candidate skillfully uses this section to show a trajectory of growth and increasing responsibility, which combined with their academic background, makes them a compelling MBA candidate.
-Content: PUBLICIS MEDIA (FORMERLY STARCOM MEDIAVEST GROUP)
-Manager, Global Business Development (2013-2016)
-Identified and led acquisition initiatives including prospecting, research, casting, deck writing and design 
-Deployed into local markets alongside C-level executives to manage high-stakes media pitch teams
-• Communicated agency network proposition to multibillion dollar global clients e.g. Coca-Cola, Procter & Gamble, Etihad Airways, Samsung
-Global Growth Team Individual Impact Award – selected by peers from 40+ experienced candidates
-Digital Associate | Internet Explorer, Windows 8, Windows Phone, Xbox, Microsoft Office (2012-2013)
-Built digital, social and mobile media campaigns; presented plans and results directly to head clients
-Supervised multi-agency activation process from plan launch through optimization and wrap-up reporting
-Researched and wrote thought leadership and point-of-view documents for internal and client distribution AdWeek Project Isaac Awards: Gold Medal in Ad Tech | Silver Medal in Mobile–-recognized by industry
-Digital Junior Associate | Continental-United Airlines, Microsoft Consumer Brands (2011-2012)
-• Trained new team members on proprietary media planning and buying tools and applications
-• Managed digital activation transition process after Continental-United Airlines merger
-Mediavest Innovation One Award – nominated by supervisor, chosen by SMG Global Product Committee
-Branded Entertainment Summer Intern | Mars, Walmart, Procter & Gamble (2009, 2010)
-• Identified print, digital and TV content integration opportunities for top agency clients
-
-Example:
-Education: 
-Timeline: 2016-present      
-Content: TUCK SCHOOL OF BUSINESS AT DARTMOUTH                                                         Hanover, NH
-                  Candidate for Master of Business Administration degree, June 2018 [top 5% of 1st year class
-                  General Management Club Co-Chair, Diversity Conference Co-Chair, Revers Board Fellow, McGowan Fellow
+JD:
+Company Description
+Since we opened our doors in 2009, the world of commerce has evolved immensely, and so has Square. After enabling anyone to take payments and never miss a sale, we saw sellers stymied by disparate, outmoded products and tools that wouldn’t work together.
 
 
-Timeline: 2008-2010        
-Content: UNIVERSITY OF PFORZHEIM (FACHHOCHSCHULE PFORZHEIM)                                           Pforzheim, Germany
-                  Master of Arts in Controlling, Finance and Accounting
-                  Elected Students’ Representative on the Academic Committee
+To solve this problem, we expanded into software and built integrated solutions to help sellers sell online, manage inventory, book appointments, engage loyal buyers, and hire and pay staff. Across it all, we’ve embedded financial services tools at the point of sale, so merchants can access a business loan and manage their cash flow in one place. Afterpay furthers our goal to provide omnichannel tools that unlock meaningful value and growth, enabling sellers to capture the next generation shopper, increase order sizes, and compete at a larger scale.
 
 
-Timeline: 2005-2008       
-Content:  CATHOLIC UNIVERSITY (UNIVERSITA’ CATTOLICA DEL SACRO CUORE)                                         Milan, Italy
-                  Bachelor of Arts in Foreign Languages and Business Administration, Cum Laude honor
-                  Received merit-based scholarship for top 10 students; Semester abroad at Stuttgart University, Germany
-
-Entry:
-
-Timeline: 2017-present      
-
-Explanation: To write the education section for an MBA program application, the candidate would begin with their most recent and relevant educational experience, ensuring continuity and clarity in their timeline. They would list the name of the institution, location, their degree pursued, and expected graduation date, all in a clean and professional format. Notable achievements such as being in the top percentage of their class, leadership roles, or fellowships would be highlighted to showcase their academic excellence and involvement. Similarly, for their undergraduate degrees, they would succinctly convey their degree, honors received, representative roles, and international experience to reflect a well-rounded academic background.
-
-Regarding their professional experience for the MBA resume entry, the candidate would use action verbs to describe their role and responsibilities as an MBA intern. The entry starts with the timeline, followed by the company name and location, then their job title. They would then list bullet points, starting with an action verb to describe key projects or accomplishments, such as "Developed reporting framework..." This would be followed by concise descriptions of the job duties and outcomes, using quantifiable results (like a specific Fiscal Year), specific metrics (KPIs), and the impact on the business (effectiveness in achieving price targets). This showcases their capacity to contribute tangibly to business operations, which is highly valuable in an MBA application.
-Content: MICROSOFT                                                                                              Seattle, WA
-                  MBA Intern, Finance
-                  •   Developed reporting framework to track and monitor pricing for Microsoft’s Worldwide Premier Services
-                      division; defined and implemented KPI to assess salesforce effectiveness in achieving price targets in FY18
-
-Example:
-Education: 
-Timeline: 2016-present
-Content:  TUCK SCHOOL OF BUSINESS AT DARTMOUTH                                                            Hanover, NH
-                Candidate for Master of Business Administration degree, June 2018
-                Activities: Winner of the Microsoft Innovation Challenge (Round 1), Women in Business (WIB) Club Co-Chair
-                Global First-Year Project: Africa market entry project for PERI GmbH, a leading scaffolding manufacturer
+Today, we are a partner to sellers of all sizes – large, enterprise-scale businesses with complex operations, sellers just starting, as well as merchants who began selling with Square and have grown larger over time. As our sellers grow, so do our solutions. There is a massive opportunity in front of us. We’re building a significant, meaningful, and lasting business, and we are helping sellers worldwide do the same.
+Job Description
+The restaurant industry is at an inflection point where technology is becoming more important than ever in shaping a restaurant's success. The Square for Restaurants team is helping restaurants build and grow smart businesses that can shapeshift to adapt to evolving diner demands, all while maintaining a sense of hospitality.
 
 
-Timeline: 2005-2010      
-Content:  DREXEL UNIVERSITY                                                                         Philadelphia, PA
-                Bachelor of Science in Business & Engineering, magna cum laude with honors
-                Co-ops: Johnson & Johnson (procurement, manufacturing) and Razorfish (project management)
+You will report to the Head of Product, Restaurants and focus on helping restaurants start, run and grow their businesses through building products that automate and elevate every part of the flow of their service.
 
-Entry:
 
-Timeline: 2017
+To be successful in this role, you should be able to transform a deep empathy of a restaurant's needs and pains into elegant software, to think tactically and strategically, to manage deep cross-functional collaboration and execution. You must also be able to drive growth metrics and own the details of the solution from deep in the stack through the end-user experience.
 
-Explanation: To write the Education section of their resume, the candidate effectively presented their academic experiences in a clear, reverse chronological format, prioritizing the most recent and relevant experiences first. They structured their entries with the institution name boldly positioned on the left, followed by the location to allow for an easy visual scan. The candidate included their degree information, expected graduation date, and relevant coursework and extracurricular activities that showcased leadership skills and industry engagement.
 
-For specific academic achievements or projects, the candidate added bullet points under the degree information to provide more details on the nature of the work, the scope, and the outcomes. Including activities such as a business challenge they won and a leadership role in a club served to demonstrate their competitive edge and commitment to the community.
+If you're looking to work at a high-growth company, drive impact on widely used products and change the way the restaurant industry works on a global scale you will find this role compelling, challenging, and rewarding.
 
-When articulating the Global First-Year Project, they briefly described the project objective, the market focus, and the company they collaborated with, which underscored their practical experience in applying business concepts to real-world situations.
 
-The candidate wrote their resume section for the internship at Adobe Systems Incorporated by detailing their role and enumerating their key responsibilities and accomplishments with bullet points. They quantified their experiences where possible (e.g., number of CIOs interviewed) to provide context and magnitude of their work. Action verbs like "advised," "created," "validated," and "conducted" were used to start each bullet point, highlighting the proactive nature of their involvement. The specific focus on competencies such as market research, strategic partnerships, and competitive analysis allowed them to showcase skills that are valuable for an MBA candidate. Additionally, the mention of collaboration with a known entity like Microsoft Dynamics provided an additional layer of credibility and relevance to their experience in the business field.
-Content: ADOBE SYSTEMS INCORPORATED                                                                 San Francisco, CA
-            Corporate Development (Strategic Partnerships) Intern
-            • Advised Document Cloud business unit on competitive landscape of Microsoft Dynamics
-            • Created framework to segment ERP and CRM market and identified where Dynamics is positioned
-            • Validated Dynamics market positioning by interviewing 10 CIOs who recently selected Dynamics
-            • Conducted market research for a new Media & Entertainment market offering with Microsoft
-            • Interviewed 10 Media industry experts on customer acquisition and engagement, content, and monetization
+You Will:
 
-Use the above examples and the user information to suggest improvements. Explain your rationale before the final content.
-Brown University Providence, RI | Sept 2017 - May 2020
-Bachelor of Arts in Computer Science and Economics, GPA: 3.8/4.0
-Relevant Courses: Entrepreneurial Process, Deep Learning, Statistics, Computer Systems, Algorithms, Corp Finance
-Education: Microsoft, Product Manager, Azure Media Security Redmond, WA | July 2020 – Jan 2022
-• Product Manager on media protection technology PlayReady built into 5+ billion devices that secures premium
-media content from the leading studios and content providers on Windows, Xbox, and 3rd party devices
-• Defined a 3-year product vision focusing on tighter licensee integration, deprecation opportunities, and new
-market segments. Drove annual revenue growth by 1.2x (FY20-21) to $62M in the first year
-• Built, tested, and launched 4 new features in PlayReady’s new version by cross-collaborating with external
-partners, developers, data scientists and marketing to close customer security gaps and enable new user scenarios
-• Drove a 1-year Operations plan improving Diagnostics, Monitoring, Alerting, and Incident Management
-practices for our services which reduced incident detection and mitigation time by 70%
-Entry:
+
+Work closely with restaurant owners and staff to deeply understand their needs, what keeps them up at night and how they run their business and serve their diners.
+In collaboration with design, engineering, marketing, and analytics partners, lead the end-to-end success of projects from discovery to launch
+Identify new growth opportunities through quantitative research, UX studies, and reviews of industry standard methodologies
+Influence and inspire key stakeholders and cross-functional peers and executives throughout Square to align intent, resources, and prioritization and deliver excellent products and services
+Qualifications
+You Have:
+
+
+Minimum of 3 years of consumer-facing product management experience
+Passion for our purpose of economic empowerment and helping sellers succeed
+Strong customer empathy and experience shaping product direction based on customer needs
+Create solid relationships that shine when you're talking with a customer, cross-functional partner, or engaging a diverse audience
+Natural curiosity and growth mindset, obsession with the details
+Navigated product scale challenges in a high growth environment
+Proven experience delivering results
+
+
+
+Notes: 1. I currently work as a Product Manager at Brex in New York where I have recently launched user onboarding for the mobile app, this resulted to a 10% increase in onboarding rates.
+2. I also introduced the concept of time-zones across Brex, thus enhancing user experience for global users and paving the way for key Brex initiatives.
+3. By introducing WhatsApp-based phone verification to combat unreliable cell service, we noticed a 5% increase in user onboarding.
+4. I have also contributed to the hiring process by leading over 45 candidate interviews across various levels within our product team.
+5. Prior to Brex, my stint at Microsoft, Redmond as a Product Manager saw me lead the creation of the simplified view of the M365 Admin Center, resulting in +12% NPS.
+6. I was instrumental in growing the active usage count from 1,000 to 1 million monthly users in one year and led an initiative to grow the Admin Center’s business.
+7. As a Software Engineering Intern at Facebook, I worked on improving machine learning models for better spam detection on Facebook and Instagram by up to 50%.
+8. At the HCI Lab, Brown University, I designed predictive sleep models by analyzing an enormous amount of sleep data from a vast number of users, which provided personalized insights on better sleep.
+9. Alongside these, I've also been active in the World Economic Forum as a Global Shaper, where I managed to raise $900k by writing grants and fundraising for land equity and repatriation to the Duwamish tribe.
+10. With an entrepreneurial streak, I co-founded Pampr.us, where we built an AI-based skincare recommendations app by conducting extensive user research and functional prototyping.
+11. My other entrepreneurial venture, Humans AI in India, saw me drive client acquisition and product development, providing alternative income for over 50 marginalized families.
+Explanation: Because this position requires a product manager with experience in consumer-facing product management and strong customer empathy, the resume should benefit from the applicant's demonstrable success in launching user-centric features at Brex (like user onboarding improvements that led to a 10% increase in onboarding rates) and the experience at Microsoft in driving user growth and NPS improvement. Because the role involves leading cross-functional teams and navigating product scale challenges in a high-growth environment, the resume should benefit from the applicant's leadership in prioritizing features with a 20-person team and expanding usage from 1,000 to 1 million monthly users at Microsoft. Because the role calls for a growth mindset and detail-orientation, the resume should benefit from mentioning the introduction of WhatsApp-based phone verification at Brex and developing predictive sleep models at HCI Lab. Because the role requires managing cross-functional collaboration and execution, the applicant's experience in leading over 45 candidate interviews and co-founding ventures like Pampr.us and Humans AI indicates well-rounded team management and entrepreneurship skills, valuable for a high-impact role at Square. Lastly, the role requires someone with a passion for economic empowerment, and the applicant's involvement with the World Economic Forum and fundraising for the Duwamish tribe showcases a commitment to social impact matching the company’s values.
+Resume: 
+PROFESSIONAL EXPERIENCE
+Brex, Product Manager, New York, NY May 2022 - Present ⋅ Launched user onboarding on the mobile app leading to a 10% increase in onboarding rates ⋅ Introduced the concept of time-zones across Brex resulting in a better user experience for
+global users and unblocking key Brex future initiatives including travel
+⋅ Shipped whatsapp based phone verification by recognizing the unmet need and future im-
+pact from unreliable cell service, resulting in a 5% increase in user onboarding
+⋅ Helped grow the product team by leading over 45 candidate interviews across all levels
+
+
+Microsoft, Product Manager, Redmond, WA July 2019 - May 2022
+⋅ Drove the creation of the simplified view of the M365 Admin Center by leading design
+sprints, research, and prioritizing features with a 20 person team resulting in +12% NPS
+⋅ Grew active usage from 1000 to 1 million monthly users in 1 year by expanding eligibility,
+increasing functionality, and converting existing customers (https://bit.ly/3jUP4Tq)
+⋅ Led the business growth initiative for the Admin Center by revamping the purchasing expe-
+rience and creating a new page to discover relevant products
+
+
+Facebook, Software Engineering Intern, Menlo Park, CA May 2018 - August 2018
+⋅ Improved machine learning models using advanced sampling algorithms and statistical
+methods resulting in up to 50% better spam detection on Facebook and Instagram
+⋅ Developed the quarterly road-map and annual metrics roadmap working with product lead
+and 9 team managers to deduplicate, defragment and prioritize projects across teams
+
+
+HCI Lab, Researcher, Brown University May 2017 - May 2019
+⋅ Designed predictive sleep models by analyzing 10+ million nights of sleep data from 60k+
+users leading to personalized insights on better sleep
+
+
+LEADERSHIP AND ACTIVITIES
+World Economic Forum, Global Shaper, Seattle, WA Jan 2021 - Present ⋅ Raised $900k as a part of Global Shapers, WEF’s volunteer arm, by writing grants, and fundraising for land equity and repatriation to the Duwamish tribe (seattleshapers.org)
+
+
+Pampr.us, Co-Founder, New York City, NY Nov 2020 - Dec 2021 ⋅ Built an AI-based skincare recommendations app by working with a designer on 20 user
+research interviews, 3 branding proposals, and 2 functional prototypes
+
+
+Humans AI, Co-Founder, India Feb 2020 - Oct 2020 ⋅ Drove client acquisition and product development with a team of 6 engineers building an
+image labeling platform resulting in alternative income for 50+ marginalized families
+
+ 
+1. Job Description: ﻿JD:
+WHO YOU’LL WORK WITH:
+
+
+Imagine a role that tests and develops your academic and personal capabilities every day of the week, presents you with the most interesting challenges and provides you the warmest, brightest and most supportive peer group to face them with. You’ll make an impact from day one and be set on a global career path that will maximize your future career potential.
+
+
+We have a long tradition of solving the most challenging problems with notable industry leaders and our Associate Consultants form the backbone of this success. If you’re an ambitious student who enjoys working with the brightest, most curious minds then we’d love you to join our team.
+
+
+WHAT YOU’LL DO:
+
+
+As a Bain Associate Consultant, your analytical, inter-personal, creative thinking, business management and leadership skills will be called upon from day one. You will begin as a generalist and be in the thick of the action as you work side-by-side with some of the best in the business. Every day is different but a sample of the things you can expect to accomplish are:
+
+
+Provide clients with powerful facts and analyses that outline solutions and drive change
+Work on case teams in roles that vary according to the team’s objective
+Be responsible for identifying information sources, gathering, and interpreting data, and presenting your findings to case team members
+Interviewing the client’s customers, competitors, suppliers, and employees; this work becomes the basis of the case team’s strategic recommendation
+The learning curve is steep, but from over 50 years of experience, we know that you will be able to handle it. And the rewards – global travel, influential connections, world-class training, personal satisfaction, unparalleled career development and, yes, financial – are second to none.
+
+
+ABOUT YOU:
+
+
+The following are typical requirements for the Associate Consultant position. Please check our office information for exact deadlines, any office-specific requirements and office information.
+
+
+University degree from a renowned educational institution 
+A solid team player who’s also an independent thinker 
+A robust analytical skill set, endless curiosity and a penchant to think the impossible
+Must be deadline driven, organized and able to multi-task
+Strong verbal, written and presentation skills are important
+Fluency in English
+Any additional language and visa requirements for the office you wish to join
+
+
+
+
+
+
+
+Notes: During my stint as a Strategic Partnerships Intern at Pamir Energy in Tajikistan from June to August 2018, I authored two executive papers for the briefing of the Executive Committee of the Aga Khan Fund for Economic Development. I was also instrumental in developing a $36.8 million partnership proposal with USAID, focusing on an electrification project that would benefit over 680,000 people. Alongside a team of two, I created a $600k partnership proposal with Masdar Renewable Energy, UAE.
+
+Prior to this, in the role of a Summer Analyst at Altman Vilandrie & Co., I developed a comprehensive video strategy for a $195 billion telecom firm between May and July 2017 in Boston, which involved analyzing consumption trends across four business segments. I evaluated seven video content providers to identify potential synergies with the client’s two existing video offerings. An enormous quantity of data from an autonomous vehicle survey of 5000 individuals was analyzed to understand shifting consumer preferences. I conducted over 100 market simulations using conjoint analysis to identify price points for hypothetical vehicle offerings.
+
+In April 2009, I founded 1 Well 700 Lives in Dubai, UAE. Through various initiatives, I provided access to clean drinking water for over 25,000 individuals in 36 Afghan villages. By reaching out to over 100 potential donors, I managed to raise more than USD 72,000 to construct 36 water wells. I also gave two TEDx speeches and appeared on national TV three times as part of our outreach activity, reaching over 7,000 people in total.
+
+I held the position of Vice President at TEDxBrownU between April 2015 and March 2018. I led a team of 20 volunteers to curate TEDx conferences, manage the speaker selection process, provide feedback, and establish core Key Performance Indicators for marketing.
+
+As President of Buxton International House between October 2015 and November  2016, I managed a $25,000 budget, organized multiple programs, and maintained high member retention rates by accommodating the cultural needs of 26 different countries.
+
+I interned as a Strategy Intern at CO OP Brand Partners, New York, NY, in the summer of 2016. During this time, I led interviews with over 40 stakeholders to identify the final target market segment for a real estate development. I performed SWOT analysis, synthesized data, and developed the final brand strategy for the client.
+Explanation: Because this position requires strong analytical skills and successful management of business challenges, the resume should benefit from the applicant's experience in developing comprehensive strategies for large firms, such as the $195 billion telecom firm video strategy and the partnership proposals created at Pamir Energy. Because the role values creative thinking and independent thought, the establishment and leadership of the initiative "1 Well 700 Lives" in Dubai, which showcased the ability to conceptualize and deliver a complex project, should be especially persuasive. Because the position demands excellent interpersonal skills and the ability to work within a team, the applicant's leadership roles at TEDxBrownU and Buxton International House, where they successfully managed diverse teams and projects, will be highly relevant. Finally, because the role expects the candidate to be deadline-driven with strong multi-tasking skills, the experience with Altman Vilandrie & Co., where the applicant handled substantial data analysis and market simulations under tight time constraints, will demonstrate the candidate's capability in this area.
+Resume: 
+EXP:
+
+BUSINESS ANALYTICS & CLIENT-RELATED EXPERIENCE 
+Pamir Energy (AKFED Co.), Strategic Partnerships Intern           Khorog, Tajikistan | June 2018 – Aug 2018
+* Authored 2 exec. papers for briefing of the Executive Committee of the Aga Khan Fund for Economic Development 
+* Developed a $36.8m partnership proposal w/ USAID for an 11MW/680,000+ beneficiary electrification project
+* Worked with team of 2 to create and develop a $600k partnership proposal with Masdar Renewable Energy, UAE
+
+
+Altman Vilandrie & Co., Summer Analyst                                                   Boston, MA | May 2017 – July 2017
+* Developed video strategy for a $195B+ telecom firm by analyzing consumption trends across devices by 4 segments
+* Evaluated 7 video content providers to identify potential synergies with the client’s 2 existing video offerings
+* Analyzed data from an annual autonomous vehicle survey (n=5000) to identify consumers’ shifting preferences
+* Conducted 100+ market simulations via conjoint analysis to identify price points for hypothetical vehicle offerings
+
+
+1 Well 700 Lives, Founder                                                                           Dubai, UAE | April 2009 – Nov 2017
+* Provided access to clean drinking water to over 25,000 people in 36 different villages in Afghanistan
+* Raised US$72,000+ to build 36 water wells by connecting with over 100 potential donors (~90% conversation rate)
+* Reached over 7,000 people through 2 TEDx speeches, 6 school-wide presentations, 3 national TV interviews, 
+10 nation-wide news and media publications, and multiple other community outreach & networking programs
+* Received 5 honorary awards from prominent organizations; previous recipients include Make-A-Wish Foundation
+
+
+LEADERSHIP EXPERIENCE
+TEDxBrownU, Vice President                                                            Providence, RI | April 2015 – March 2018
+   * Led a team of over 20 volunteers to curate TEDx conferences and increase attendance by 25% to 100 people
+   * Guided screening of 62 applications to select 12 speakers and ensure an engaging, diverse representation of topics
+   * Provided over 70 hours of personalized feedback to produce 3.5 hours of speaker content and visual presentations
+   * Increased on-campus brand awareness and interaction by 32% by establishing core KPIs for marketing 
+
+
+Buxton International House, President                                                    Providence, RI | Oct 2015 – Nov 2016
+   * Managed a $25,000 budget and organized multiple programs to engage over 150 members and alumni each semester in coordination with Brown University, student groups, and other external professional organizations
+   * Retained 86% of members by modeling programs around understanding the cultures of 26 different countries 
+   * Led a board of 6 members to recruit over 60 residents to create a diverse community of international students
+
+
+CO OP Brand Partners, Strategy Intern                                                  New York, NY | June 2016 - Aug 2016
+   * Led over 40 stakeholder interviews to identify and analyze final target market segment for a real estate development
+   * Conducted SWOT analysis of 12 neighborhood real estate developments to evaluate competitive positioning of client, understand market trends, and generate 2 out of 4 branding opportunities, which were chosen by client 
+   * Worked with a team of 4 to synthesize internal and external secondary data to produce final brand strategy for client
+
+
+
+ 
+1. Job Description: 
+
+
+JD: 
+Qualifications
+•
+Expert in a high-level programming language such as Python, or R
+•
+A detailed understanding of Market Microstructure
+•
+Experience of analysing OTC data and Exchange Traded Data
+•
+Hands-on attitude; willing to get involved with technology and projects across the firm
+•
+5+ years of experience trading in a financial institution
+•
+Strong academic record and a degree with high mathematical, statistical and computing content : Mathematics, Computer Science, Engineering, Economics or Physics from a leading university
+•
+Ability to think quickly & logically in very high-pressure situations
+•
+Intellectually robust with a keenly analytic approach to problem solving
+•
+Strong inter-personal skills to enable communication across investment management teams and regions
+Responsibilities
+•
+As Quantitative Trader, you will help manage our systematic quantitative strategies and develop a best-in-class trading platform for the firm
+•
+Help managing our systematic trading strategies by maximising our execution platform and technology
+•
+Contribute to improvements across signal development, portfolio construction, risk management and trading
+•
+Drive development of our trading platform, infrastructure and technology
+•
+Use qualitative and quantitative analysis to improve performance of our systematic strategies
+•
+Develop and maintain relationships with our counterparties
+
+
+
+
+
+Notes: At Citigroup Inc., I worked as a Quantitative Analyst where I studied various computational errors like discretization, truncation, and interpolation. I was able to manage those errors within given constraints. I was responsible for finding appropriate values of various parameters including the dampening factor in the CGMY model. In this role, I priced financial derivatives using numerical methods such as trapezoidal and Simpson's rules in the aforementioned model. I have experience using the Fast Fourier Transform (FFT) to effectively price a large number of contracts with required precision. I developed a novel method for more effective contract pricing using the Hilbert Transform, which drastically improved both pricing accuracy and computational cost. I also supported managers with trade approvals and assisted the finance department with price verification methodologies.
+
+During my time as an Intern Quantitative Researcher at Investment Technology Group Inc., I assisted in the creation of proprietary options pricing models. The models we built led to enhanced pricing accuracy and computational efficacy. I contributed to the development of algorithms for the company's Multi-Asset Execution Management Systems (MAEMS). I'm adept in the application of various financial derivative models for quantitative analysis of private equity investments, employing C++ programming. I formulated formal models of risk, return, and trading cost profiles for firm-wide asset classes, including equities.
+
+At CITIC Securities Co. Ltd., I worked in the capacity of a Credit Risk Model Validation Analyst. I rigorously tested risk models through sensitivity analysis, extreme value testing, uncertainty analysis, backtesting, and benchmarking. This aimed at effectively challenging the models. In context to the CCAR/DFAST regulatory framework, I evaluated the appropriateness of model utilization. I indentified inappropriate use of the equity replication model in a project related to counterparty credit risk exposure and rectified it. In conclusion, I compiled comprehensive independent validation reports, describing the analytical tasks undertaken and their resultant outcomes.
+Explanation: Because this position requires expertise in a high-level programming language such as Python or R, the resume should benefit from highlighting the applicant’s proficiency in C++ programming, which is also a high-level programming language, and their experience with applying numerical methods such as FFT and the Hilbert Transform for computational tasks, which showcases their programming skill set.
+
+Because the job description emphasizes a detailed understanding of Market Microstructure, the resume should benefit from mentioning the applicant's experience with pricing financial derivatives and developing proprietary options pricing models, which implies a robust understanding of financial markets and market mechanisms.
+
+Because the position values experience in analyzing OTC data and Exchange Traded Data, the resume should benefit from the applicant's role in price verification methodologies at Citigroup Inc. This demonstrates their familiarity with data analysis in financial contexts.
+
+Because the role requires a hands-on attitude and willingness to get involved with technology and projects across the firm, the resume should benefit from the applicant's demonstrated experience in developing new methodologies for contract pricing, assisting in algorithm development for a Multi-Asset Execution Management System, and various other technical contributions that suggest a proactive approach to technology and project involvement.
+
+Because the position demands 5+ years of experience trading in a financial institution, the resume should benefit from the comprehensive experience the applicant has across multiple roles at established financial institutions such as Citigroup Inc. and CITIC Securities Co. Ltd., which shows a progression of responsibility and relevance to the trading industry.
+
+Because the candidate must have a strong academic record and a degree with high mathematical, statistical, and computing content, the resume should benefit from the applicant’s implied strong academic background due to their involvement in highly technical roles that require advanced financial and mathematical modeling techniques.
+
+Finally, because the position necessitates strong interpersonal skills for communication across investment management teams and regions, the resume should benefit from the experience the applicant has in writing comprehensive reports and assisting managers, demonstrating their capability to communicate complex quantitative findings to different stakeholders.
+Resume: 
+Experience
+
+
+Citigroup Inc.
+Quantitative Analyst
+
+
+Studied all types of computational errors such as discretization, truncation and interpolation errors and controlled errors within the limits given.
+Found the most appropriate values of parameters including dampening factor implemented in the CGMY model.
+Priced financial derivatives in the CGMY model using numerical approaches such as the trapezoidal and Simpson's rules.
+Applied the Fast Fourier Transform (FFT) to simultaneously price a large number of contracts with the desired accuracy. 
+Developed a new methodology to effectively price the contracts using Hilbert Transform approach which shows substantial improvements in pricing accuracy and computational cost.
+Assisted managers on trade approvals and finance on price verification methodologies.
+
+
+
+
+Investment Technology Group Inc.
+Intern as Quantitative Researcher
+
+
+Assisted in building proprietary options pricing models which show improvements in terms of pricing accuracy and computing efficiency.
+Assisted in developing algorithms for company's Multi-Asset Execution Management Systems (MAEMS).
+Implemented various financial derivative models in the quantitative analysis of private equity investments using C++ programming.
+Created formal modeling of risk, return and trading cost profiles for equities and other firm-wide assets classes.
+
+
+CITIC Securities Co. Ltd.
+Credit Risk Model Validation Analyst
+
+
+Extensively tested the risk models including sensitivity analysis, extreme value testing, uncertainty analysis, backtesting, and benchmarking to challenge the models effectively.
+Evaluated the model use appropriateness in the context of CCAR/DFAST.
+Found inappropriate use of equity replication model in the counterparty credit risk exposure project, and debugged it.
+Wrote comprehensive independent validation reports explaining the analysis performed and their results.
+
+
+
+ 
+Job Description: The JD:
+We are seeking an innovative Product and Growth Lead to drive our product development and user expansion strategies. As our 1st PM, you’ll be working to enhance our product offerings and extend our market reach to establish a dominant position in the industry.
+Job Responsibilities:
+Direct the full product development cycle, from initial testing to project management, ensuring a seamless user experience.
+Craft and execute growth strategies to boost product uptake and engagement.
+Partner with the design team to continuously improve and innovate the product's design, focusing on user-centric experiences.
+Work on growth initiatives through collaboration with marketing, creative, and community teams.
+Requirements:
+2+ years in product management, with a strong preference for experience in consumer or video products.
+Experience in successful marketing and growth initiatives.
+Robust creative and analytical abilities, with a strategic approach to product evolution and user base growth.
+Effective communication skills and a collaborative spirit to work synergistically with various teams.
+A dynamic, startup mindset with a zeal for innovation and a passion for working in a fast-paced environment.
+A plus if complemented by an artistic interest and background.
+This position is in-person.
+Notes: I have a strong interest in filmmaking and possess over three years of experience in account acquisition, product lifecycle management, and growth strategies that I cultivated during my time at Palantir. I am looking forward to applying my technical expertise and strategic insights to contribute to Pika's pioneering product leadership, foster its growth, and boost its adoption.
+
+In my previous role, I successfully led the development of custom enterprise products, generating revenue of $24 million across various accounts. This success was achieved through identifying market opportunities, creating user-focused solutions, and building robust relationships at all levels within the organization, from end-users to executive suite. More recently, I was at the helm of a 12-person engineering team where I drove the acquisition and upscaling of manufacturing accounts by developing custom AI solutions.
+
+Since July, I have been conducting a series of hackathons and bootcamps for technical users. These efforts have resulted in nine new contracts and increased active engagement with existing clients. My role at Palantir and for our clients encompassed everything from product roadmap planning and execution to designing architecture, scoping use cases, and fostering user community growth.
+
+I am particularly proud of leading the design and implementation efforts for Palantir's Scenarios product as the primary user-facing associate. This product was adopted by our entire user base within six months of launch thanks to simplified UX, scalable workflows, and successful client showcases.
+
+I believe in the power of collaboration and always seek to work with teams composed of individuals who are exceptional, kind-hearted, and motivated by collective achievement. I'm committed to providing the resources my team needs, fostering a sense of shared responsibility, and ensuring skills are allocated in a way that meets the business needs effectively.
+
+My passion for filmmaking and technology combined with analytical expertise, aligns well with Pika's mission to revolutionize expression through AI. I am excited about the opportunity to contribute to its rapid growth. I am eager to discuss how I can apply my experience and growth-oriented product expertise to help position Pika as a leader in AI-powered video creation, democratize creative tools, and establish a new standard.
